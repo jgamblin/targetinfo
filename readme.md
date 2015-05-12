@@ -9,6 +9,4 @@ python targetinfo.py
 
 
 #Important Notice
-*I dont kow what I am doing. This will likely break your system... or be illegal in your country* 
-
-
+*I dont kow what I am doing. This will likely break your system... or could be illegal in your country.* 
