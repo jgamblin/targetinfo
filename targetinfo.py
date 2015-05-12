@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
     my_ip = urlopen('http://ip.42.pl/raw').read()
 
-    print(blue('Checks IP address against the hackertarget api'))
+    print(blue('Get Reverse DNS, GeoIP, NMAP, Traceroute and pulls HTTP Headers for an IP address'))
     print(blue('A quick and dirty script by @jgamblin'))
     print('\n')
     print(red('Your public IP address is {0}'.format(my_ip)))
